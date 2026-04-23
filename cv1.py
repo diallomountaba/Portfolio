@@ -36,7 +36,7 @@ st.markdown("""
             """)
 
 with st.sidebar:
-            st.texte("MOHAMED MOUNTABA DIALLO")
+    st.texte("MOHAMED MOUNTABA DIALLO")
     st.markdown(""" Contacts
 * Citee Lycee-Joal
 * diallomohamed922@gmail.com
