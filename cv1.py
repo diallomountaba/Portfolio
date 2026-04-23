@@ -1,9 +1,8 @@
 import streamlit as st
 
-st.divider()
 st.text("Geomaticien et Geographe,je suis motivé,déterminé et avec une bonne capacité physique et mentale.Je travaille toujours avec rigueur et munitie pour un résultat à la hauteur des attentes fixées.Grace à ma capacité d'adaptation et à mon ouverture d'esptit,j'assimile avec serieux et détermination l'objectif à atteindre.")
 
-st.subheader("Diplomes et Formations")
+st.subheader("Parcours Académique")
 st.markdown("""
             
  1ere annee BTS geomatique au G15 Senegal-Inde 2026\n
@@ -38,6 +37,7 @@ st.markdown("""
             """)
 
 with st.sidebar:
+            st.texte("MOHAMED MOUNTABA DIALLO")
     st.markdown(""" Contacts
 * Citee Lycee-Joal
 * +221765758529
