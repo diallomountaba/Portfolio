@@ -1,6 +1,5 @@
 import streamlit as st
 
-st.title("MERCI M NDIAYE")
 st.divider()
 st.text("Geomaticien et Geographe,je suis motivé,déterminé et avec une bonne capacité physique et mentale.Je travaille toujours avec rigueur et munitie pour un résultat à la hauteur des attentes fixées.Grace à ma capacité d'adaptation et à mon ouverture d'esptit,j'assimile avec serieux et détermination l'objectif à atteindre.")
 
