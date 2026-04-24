@@ -11,7 +11,7 @@ st.markdown("""
 """)
 
 st.divider()
-st.info.("EXPERIENCE PERSONNELLE")
+st.info("EXPERIENCE PERSONNELLE")
 st.text("Pratique continue du sport pendant 13ans en parellèle d'un parcours academique.\n" \
 "Cette double implication m'a permis de develloper une forte discipline ,une excelente gestion du temps et une grande capacite à travaller sous pression. ")
 st.markdown("""
