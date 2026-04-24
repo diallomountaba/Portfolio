@@ -51,8 +51,3 @@ with col2:
     st.write("Bonne connaissances culturelle et littéraire")
     st.write("Bonne capacité à analyser les pensees et les affaires humaines,les critiquer et realiser des discours autour de ces sujets")
     
-* Bonne capacité d'analyse et d'interprétation des résultats expérimentaux
-* Bonne connaissances culturelle et littéraire
-* Bonne capacité à analyser les pensees et les affaires humaines,les critiquer et realiser des discours autour de ces sujets
-* Capacite d'agir et de prendre des decisions dans des affaires humaines et sociales importante
-* Capacite à comprendre les phenomenes humains dans leur dimension sociales,historiques,sectorielles,d'esprit et de loi
