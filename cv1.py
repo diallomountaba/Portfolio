@@ -1,9 +1,9 @@
 import streamlit as st
 
-st.subheader("Profil")
+st.info("PROFIL")
 st.text("Téchnicien supérieur en Géomatique,motivé,déterminé et avec une bonne capacité physique et mentale.Je travaille toujours avec rigueur et munitie pour un résultat à la hauteur des attentes fixées.Grace à ma capacité d'adaptation et à mon ouverture d'esptit,j'assimile avec serieux et détermination l'objectif à atteindre.")
 
-st.subheader("Parcours Académique")
+st.subheader("PARCOURS ACADEMIQUE")
 st.markdown("""
 * Licence en Géographie 2026          
 * Brevet de Téchnicien Supérieur en Géomatique 2026
@@ -11,7 +11,7 @@ st.markdown("""
 """)
 
 st.divider()
-st.info("Expériences personnelle")
+st.info.("EXPERIENCE PERSONNELLE")
 st.text("Pratique continue du sport pendant 13ans en parellèle d'un parcours academique.\n" \
 "Cette double implication m'a permis de develloper une forte discipline ,une excelente gestion du temps et une grande capacite à travaller sous pression. ")
 st.markdown("""
@@ -22,7 +22,7 @@ st.markdown("""
 st.text("Cette experience m'a permis de forger un profil équilibrer,dynamique et orienté vers la performance.")
 
 st.divider()
-st.subheader("Sport")
+st.info("SPORT")
 st.markdown("""
 * Maitre de Dojo            
 * Ceinture Noire 2e Duan-Kungfu Wushu 2024
@@ -37,16 +37,16 @@ with st.sidebar:
 * 📍Citee Lycee-Joal
 * ✉️diallomohamed922@gmail.com
                 """)
-    st.markdown("""Langues
+    st.success("""LANGUE
 * Anglais
                  """)
     st.divider()
-    st.subheader("Centre D'intérêt")
+    st.success("CENTRE D'INTERET")
     st.write("Sport")
     st.write("Lecture")
     st.write("Cuisine")
     st.divider()
-    st.subheader("Compétences")
+    st.success("COMPETENCES")
     st.write("Bonne maitrise des logiciels d'architecture(Autocad,SketchUp)")
     st.write("Bonne maitrise des logiciels cartographique(Arcgis,QGiS)")
     st.write("Capacite d'adaptation")
