@@ -33,9 +33,9 @@ st.markdown("""
 
 with st.sidebar:
     st.subheader("MOHAMED MOUNTABA DIALLO")
-    st.markdown(""" Contacts
-* Citee Lycee-Joal
-* diallomohamed922@gmail.com
+    st.markdown(""" 📞Contacts
+* 📍Citee Lycee-Joal
+* ✉️diallomohamed922@gmail.com
                 """)
     st.markdown("""Langues
 * Anglais
@@ -55,3 +55,8 @@ with st.sidebar:
     st.write("Proactif")
     st.write("Social")
     
+* Bonne capacité d'analyse et d'interprétation des résultats expérimentaux
+* Bonne connaissances culturelle et littéraire
+* Bonne capacité à analyser les pensees et les affaires humaines,les critiquer et realiser des discours autour de ces sujets
+* Capacite d'agir et de prendre des decisions dans des affaires humaines et sociales importante
+* Capacite à comprendre les phenomenes humains dans leur dimension sociales,historiques,sectorielles,d'esprit et de loi
