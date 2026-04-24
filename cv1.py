@@ -45,7 +45,4 @@ with st.sidebar:
     st.write("Methodique")
     st.write("Proactif")
     st.write("Social")
-    st.write("Bonne capacité d'analyse et d'interprétation des résultats expérimentaux")
-    st.write("Bonne connaissances culturelle et littéraire")
-    st.write("Bonne capacité à analyser les pensees et les affaires humaines,les critiquer et realiser des discours autour de ces sujets")
-    
+  
