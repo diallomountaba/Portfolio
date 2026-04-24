@@ -1,21 +1,17 @@
 import streamlit as st
 
-st.text("Geomaticien et Geographe,je suis motivé,déterminé et avec une bonne capacité physique et mentale.Je travaille toujours avec rigueur et munitie pour un résultat à la hauteur des attentes fixées.Grace à ma capacité d'adaptation et à mon ouverture d'esptit,j'assimile avec serieux et détermination l'objectif à atteindre.")
+st.subheader("Profil")
+st.text("Téchnicien supérieur en Géomatique,motivé,déterminé et avec une bonne capacité physique et mentale.Je travaille toujours avec rigueur et munitie pour un résultat à la hauteur des attentes fixées.Grace à ma capacité d'adaptation et à mon ouverture d'esptit,j'assimile avec serieux et détermination l'objectif à atteindre.")
 
 st.subheader("Parcours Académique")
 st.markdown("""
             
 * Brevet de Téchnicien Supérieur en Géomatique 2026
 * Baccalaureat Sciences Humaines et Sociales 2023
-* Bonne capacité d'analyse et d'interprétation des résultats expérimentaux
-* Bonne connaissances culturelle et littéraire
-* Bonne capacité à analyser les pensees et les affaires humaines,les critiquer et realiser des discours autour de ces sujets
-* Capacite d'agir et de prendre des decisions dans des affaires humaines et sociales importante
-* Capacite à comprendre les phenomenes humains dans leur dimension sociales,historiques,sectorielles,d'esprit et de loi
 """)
 
 st.divider()
-st.subheader("Expériences personnelle")
+st.info("Expériences personnelle")
 st.text("Pratique continue du sport pendant 13ans en parellèle d'un parcours academique.\n" \
 "Cette double implication m'a permis de develloper une forte discipline ,une excelente gestion du temps et une grande capacite à travaller sous pression. ")
 st.markdown("""
