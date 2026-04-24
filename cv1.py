@@ -5,7 +5,7 @@ st.text("Téchnicien supérieur en Géomatique,motivé,déterminé et avec une b
 
 st.subheader("Parcours Académique")
 st.markdown("""
-            
+* Licence en Géographie 2026          
 * Brevet de Téchnicien Supérieur en Géomatique 2026
 * Baccalaureat Sciences Humaines et Sociales 2023
 """)
