@@ -38,12 +38,12 @@ with st.sidebar:
             
     st.divider()
     st.success("COMPETENCES")
-with col1:
+with st.col1:
     st.write("Bonne maitrise des logiciels d'architecture(Autocad,SketchUp)")
     st.write("Bonne maitrise des logiciels cartographique(Arcgis,QGiS)")
     st.write("Capacite d'adaptation")
     st.write("Ouverture d'esprit")
-with col2:
+with st.col2:
     st.write("Methodique")
     st.write("Proactif")
     st.write("Social")
