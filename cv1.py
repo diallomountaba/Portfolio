@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.info("PROFIL")
-st.text("Téchnicien supérieur en Géomatique,motivé,déterminé et avec une bonne capacité physique et mentale.Je travaille toujours avec rigueur et munitie pour un résultat à la hauteur des attentes fixées.Grace à ma capacité d'adaptation et à mon ouverture d'esptit,j'assimile avec serieux et détermination l'objectif à atteindre.")
+st.text("Technicien et Geographe,motivé,déterminé et avec une bonne capacité physique et mentale.Je travaille toujours avec rigueur et munitie pour un résultat à la hauteur des attentes fixées.Grace à ma capacité d'adaptation et à mon ouverture d'esptit,j'assimile avec serieux et détermination l'objectif à atteindre.")
 
 st.info("PARCOURS ACADEMIQUE")
 st.markdown("""
@@ -28,21 +28,35 @@ st.markdown("""
 
 with st.sidebar:
     st.subheader("MOHAMED MOUNTABA DIALLO")
+    st.write("Technicien Supérieur en Géomatique")        
     st.markdown("""
 * 📍Citee Lycee-Joal
 * ✉️diallomohamed922@gmail.com
                 """)
-    st.success(""" LANGUE
-* Anglais
-                 """)
+    st.success("LANGUE")
+    st.markdown("""
+    * Anglais
+    """)
             
-    st.divider()
-    st.success("COMPETENCES")
-    st.write("Bonne maitrise des logiciels d'architecture(Autocad,SketchUp)")
-    st.write("Bonne maitrise des logiciels cartographique(Arcgis,QGiS)")
-    st.write("Capacite d'adaptation")
-    st.write("Ouverture d'esprit")
-    st.write("Methodique")
-    st.write("Proactif")
-    st.write("Social")
+    st.success("⚙️OUTIL")
+    st.markdown("""
+    * Word
+    * Acces
+    * Excel
+    * PowerPoint
+    * PowerAMC
+    * Visual Code
+    """)
+            
+            
+st.success("COMPETENCES")
+st.write("Conception de Carte")
+st.write("Conception d'une base de donnée")
+st.write("Bonne maitrise des logiciels d'architecture(Autocad,SketchUp)")
+st.write("Bonne maitrise des logiciels cartographique(Arcgis,QGiS)")
+st.write("Capacite d'adaptation")
+st.write("Ouverture d'esprit")
+st.write("Methodique")
+st.write("Proactif")
+st.write("Social")
   
